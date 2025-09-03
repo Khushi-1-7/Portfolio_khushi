@@ -17,7 +17,7 @@ export const About = () => {
 
         <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
           <p className="text-gray-300 mb-6">
-            I’m Maahira, a BCA student with a curious mind and a deep passion for data.
+            I’m Khushi, a BCA student with a curious mind and a deep passion for data.
             I love exploring datasets, uncovering patterns, and telling stories with visuals.
             Whether it’s Excel dashboards, Power BI reports, or SQL queries — I enjoy crafting insights that drive meaningful decisions.
           </p>
