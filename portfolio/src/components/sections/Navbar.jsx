@@ -10,7 +10,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
       <div className="max-w-5xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           <a href="#" className="text-white font-bold text-lg">
-            pedro<span className="text-blue-500">.tech</span>
+            Portfolio<span className="text-blue-500"> .tech</span>
           </a>
 
           {/* Hamburger icon */}

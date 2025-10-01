@@ -1,5 +1,5 @@
 import React from 'react';
-import myImage from "../../assets/khushi.jpg";
+import myImage from "../../assets/image.jpg";
 import { RevealOnScroll } from '../RevealOnScroll';
 
 export const Home = () => {
@@ -17,8 +17,7 @@ export const Home = () => {
               Khushi Datta
             </h1>
             <p className="text-gray-300 text-lg leading-relaxed">
-              A passionate BCA student and data enthusiast. I explore data, build dashboards, and love transforming insights into decisions using <strong>Excel</strong>, <strong>Python</strong>, <strong>Power BI</strong>, and <strong>SQL</strong>.
-            </p>
+              I love solving problems with data.From spreadsheets to interactive dashboards — Excel, Python, Power BI, SQL.As a BCA student and data enthusiast, I translate raw data into clear stories that guide better decisions.</p>
             <div className="flex justify-center md:justify-start space-x-4">
               <a
                 href="#projects"

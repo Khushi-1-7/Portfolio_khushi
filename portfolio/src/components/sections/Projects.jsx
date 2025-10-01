@@ -88,6 +88,25 @@ export const Projects = () => {
               View Project
             </a>
           </div>
+
+          {/* Project 5 */}
+          <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:shadow-lg transition-all bg-white/5">
+            <h3 className="text-xl font-semibold text-white mb-2">Inventory And Supply Chain Management Analysis</h3>
+            <p className="text-gray-300 mb-4">
+              Conducted a comprehensive analysis of inventory and supply chain processes to identify inefficiencies and recommend improvements.
+            </p>
+            <div className="text-sm text-blue-400 font-medium mb-4">
+              Tools: Power BI, Data Analysis, Supply Chain Management
+            </div>
+            <a
+              href="https://github.com/Khushi-1-7/Inventory-and-Supply-chain-management-Analysis"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block mt-2 px-4 py-2 border border-blue-400 text-blue-400 rounded hover:bg-blue-500 hover:text-white transition"
+            >
+              View Project
+            </a>
+          </div>
         </div>
         </RevealOnScroll>
       </div>
